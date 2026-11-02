@@ -1,0 +1,13 @@
+name = "Toast Control [FABRIC]"
+filename = "ToastControl-1.21.1-9.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t4HgXDO6/versions/5rn55m3t/ToastControl-1.21.1-9.0.1.jar"
+hash-format = "sha512"
+hash = "883e8d9f918d3b73d260e1b2eb89e9d3556f3cc154d78bf0f3a80b8fa72ccf8452adf349a33bcf02a11e43a54c06d46444bbac9b89df4dfa92da7bc0997b7e29"
+
+[update]
+[update.modrinth]
+mod-id = "t4HgXDO6"
+version = "5rn55m3t"

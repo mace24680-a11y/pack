@@ -1,5 +1,7 @@
-# Files in this folder that should NOT be shipped to players
+# Local tooling and leftovers that must NOT be shipped to players
 add-mods.bat
 packwiz.exe
 .gitattributes
 .gitignore
+# early flat panorama copies (the real ones live in herobrine/panorama/)
+config/fancymenu/panoramas/herobrine/panorama_*.png

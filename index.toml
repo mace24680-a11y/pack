@@ -1,6 +1,87 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/icon_16.png"
+hash = "4ca2b4a659c77d8c9b854618586b126817e050ab46f4cd04479ae025410ebe05"
+
+[[files]]
+file = "config/fancymenu/assets/icon_32.png"
+hash = "348aabe77403d8d784082693e30068735239cbd50329fbcc2b5e7536a70f8bff"
+
+[[files]]
+file = "config/fancymenu/assets/mojang_flip.gif"
+hash = "8099663e38f88e3cde63b1cc8ced32b66cbc35ddb352d878d63d8d8747fbdae4"
+
+[[files]]
+file = "config/fancymenu/assets/mojang_flip_glitch.gif"
+hash = "97fbf0102eb31f5671dd7524bb7f1a849ae9fafeafe705bf337640dc9a69ac17"
+
+[[files]]
+file = "config/fancymenu/assets/original-windows-minecraft-ntjrxhzqklo2w1q5.jpg"
+hash = "9c3dea205df11f6709d9cdf7c06fb7fe4309a91e4a7449a4ca88e4ea700c6f9c"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "bd39d7335bc9124bc06081098b5556bbe4feb791af9496323a1f7d9a84bc4325"
+
+[[files]]
+file = "config/fancymenu/customization/crafting_screen_layout.txt"
+hash = "04ba39f5b83c937de954dd485b14a556c9551ec0f1a9486a17dd4eb05b545923"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "64e04452699e9a59398c48f0cfc78c2ce25e1e8d57862b03c31e9198dcd3044f"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "17d1b9b39962de0d5e90d81b5cfd152f236325be6170ce14d1672bec663a4968"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d9be35912cf183ec9027915b0c68d91e855c04f48b3c439d081510c300f10aaf"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "b7acafc5da3c76335ce6dbbbefb37ed1484bed08b80d85301a7be3cf19899ccc"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_0.png"
+hash = "15b6d9c5fd5d05c3d7a435db5634da29cd090f4e1664d530f8dd7c1b9c0747de"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_1.png"
+hash = "acc6ccd0446e173de6c8d206a8d2cdfea61e90203ba3451fe4ec989c467ad18c"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_2.png"
+hash = "e9274f6f25c9a166e566b9b28a65dc4c29f1e43e16d45c325b4e6fde2038e3bd"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_3.png"
+hash = "a16cf8c5014b491b5686030ebf61d49ce684181376a7fd2b958d4ff6ba4dbc79"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_4.png"
+hash = "a47756bb0f3fc381295d86c043cc43c2fef56492d953e982bcdcda0b38259543"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_5.png"
+hash = "28835595c8c80147e1cb8deb3babdeac5390e1afa42778435eb76fd3a9a1d835"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/properties.txt"
+hash = "ee92baed7a4721d9d1cf85d9d54e3062690b7ea2856ee7ea3975effc708bcd02"
+
+[[files]]
+file = "config/iris.properties"
+hash = "da1535ae079a8076f7f84faad06b6d7a640f11261cbe7f6acc1ad8780cfee431"
+preserve = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
@@ -76,9 +157,24 @@ hash = "80b8a18c5550786432fd65bd2ce03c39f584321e01464681a16601de9dcafc90"
 metafile = true
 
 [[files]]
+file = "mods/toast-control-fabric.pw.toml"
+hash = "03ec85cbbd11fe7fce73316d2315dfbee9d0eebe1c96982d30a5a90050e66dff"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d2c3a0cb6ce4764dbff434c715cf5a70ea2d7f2aee1a8bf688d0fb8a03be77d2"
+preserve = true
+
+[[files]]
 file = "resourcepacks/Minecraft Classic Edition.zip"
 hash = "84c971523285df32da9cab9f4b991adc2374f23cc6639024aab3bbad10c9cdb4"
 
 [[files]]
 file = "shaderpacks/Somber.zip"
 hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
+
+[[files]]
+file = "shaderpacks/Somber.zip.txt"
+hash = "cd2e15124880b40583cd5d95d14369fc72a6e4bbda6d3e9b46577d4318707534"
+preserve = true
