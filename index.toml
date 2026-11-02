@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add-mods.bat"
-hash = "75c4c060871fe564cfeb4c169b517092139e24d2a0b0a85e4080af04a5921518"
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
