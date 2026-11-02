@@ -46,7 +46,7 @@ hash = "d9be35912cf183ec9027915b0c68d91e855c04f48b3c439d081510c300f10aaf"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b7acafc5da3c76335ce6dbbbefb37ed1484bed08b80d85301a7be3cf19899ccc"
+hash = "b20471d6b1b3f55af601df536c5b16991328b0a0a6c27f125e8b1668b29052dd"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_0.png"
@@ -57,20 +57,8 @@ file = "config/fancymenu/panoramas/herobrine/panorama/panorama_1.png"
 hash = "acc6ccd0446e173de6c8d206a8d2cdfea61e90203ba3451fe4ec989c467ad18c"
 
 [[files]]
-file = "config/fancymenu/panoramas/herobrine/panorama/panorama_2.png"
-hash = "e9274f6f25c9a166e566b9b28a65dc4c29f1e43e16d45c325b4e6fde2038e3bd"
-
-[[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_3.png"
 hash = "a16cf8c5014b491b5686030ebf61d49ce684181376a7fd2b958d4ff6ba4dbc79"
-
-[[files]]
-file = "config/fancymenu/panoramas/herobrine/panorama/panorama_4.png"
-hash = "a47756bb0f3fc381295d86c043cc43c2fef56492d953e982bcdcda0b38259543"
-
-[[files]]
-file = "config/fancymenu/panoramas/herobrine/panorama/panorama_5.png"
-hash = "28835595c8c80147e1cb8deb3babdeac5390e1afa42778435eb76fd3a9a1d835"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/properties.txt"
@@ -163,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d2c3a0cb6ce4764dbff434c715cf5a70ea2d7f2aee1a8bf688d0fb8a03be77d2"
+hash = "dd26b9d31b9587b5ba9a842bc423884c92d339012f9f6e9d3636f8c9bfbb9bcb"
 preserve = true
 
 [[files]]

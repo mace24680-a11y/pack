@@ -18,14 +18,14 @@ B:game_intro_fade_out = 'true';
 S:game_intro_sound_channel = 'master';
 S:preload_resources = '';
 B:allow_game_intro_skip = 'true';
-S:game_intro_animation_name = '[source:local]/config/fancymenu/assets/mojang_flip.gif';
+S:game_intro_animation_name = '[source:local]/config/fancymenu/assets/mojang_flip_glitch.gif';
 F:game_intro_volume = '1.0';
 S:custom_game_intro_skip_text = '';
 
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
+B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '';
 S:custom_window_icon_32 = '/config/fancymenu/assets/icon_32.png';
 S:custom_window_title = 'MINECRAFT?';
