@@ -1,7 +1,7 @@
 @echo off
 rem Run this from C:\Spook\pack AFTER installing packwiz (see ..\README.md).
 rem Step 1 (once, interactive):   packwiz init
-rem   name: Spook | loader: fabric | Minecraft version: 1.21.4
+rem   name: Spook | loader: fabric | Minecraft version: 1.21.1
 rem Step 2: run this file. Each line adds a mod from Modrinth and records its
 rem client/server side automatically.
 cd /d "%~dp0"
