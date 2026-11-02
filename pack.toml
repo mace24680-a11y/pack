@@ -1,0 +1,13 @@
+name = "Spook"
+author = "Meece"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60607f2239b9fe40d178c6fa10969db4f540e1f592ca20decbee97f30356e64a"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"

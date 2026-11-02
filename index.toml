@@ -1,0 +1,68 @@
+hash-format = "sha256"
+
+[[files]]
+file = "add-mods.bat"
+hash = "75c4c060871fe564cfeb4c169b517092139e24d2a0b0a85e4080af04a5921518"
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "a503ac4887c60672c49d0cade6326e17b9b6340549e33772918918312f286d56"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e0a1d9bf5386206f3c652c9d422405519110de7c4ab7f9271f4cb355b785e6ae"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f58afbe79ea14087160830efff055c08955fc7321fc27137810e5da2f548426c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Minecraft Classic Edition.zip"
+hash = "84c971523285df32da9cab9f4b991adc2374f23cc6639024aab3bbad10c9cdb4"
+
+[[files]]
+file = "shaderpacks/Somber.zip"
+hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
