@@ -5,7 +5,3 @@ packwiz.exe
 .gitignore
 # early flat panorama copies (the real ones live in herobrine/panorama/)
 config/fancymenu/panoramas/herobrine/panorama_*.png
-# panorama faces 2, 4, 5 are intentionally missing (corrupted feel); keep stray copies out of the pack
-config/fancymenu/panoramas/herobrine/panorama/panorama_2.png
-config/fancymenu/panoramas/herobrine/panorama/panorama_4.png
-config/fancymenu/panoramas/herobrine/panorama/panorama_5.png

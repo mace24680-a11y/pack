@@ -50,15 +50,27 @@ hash = "b20471d6b1b3f55af601df536c5b16991328b0a0a6c27f125e8b1668b29052dd"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_0.png"
-hash = "15b6d9c5fd5d05c3d7a435db5634da29cd090f4e1664d530f8dd7c1b9c0747de"
+hash = "3d795d39c70d5d9921285d2f60103091d37fbc49a1a39585a7bfd9fd68c84950"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_1.png"
-hash = "acc6ccd0446e173de6c8d206a8d2cdfea61e90203ba3451fe4ec989c467ad18c"
+hash = "57b6928a6fdb3f4ce66ac82ebdf13bd5926401c21e805fb0894c332ebb59a33e"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_2.png"
+hash = "b9561ecb78b41f79716c3d513b04dd4793771f537f1186f7637f4b98c33330ec"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_3.png"
-hash = "a16cf8c5014b491b5686030ebf61d49ce684181376a7fd2b958d4ff6ba4dbc79"
+hash = "2c9e3e481480e851ba19bbb67a6c103fe38a0a86a35dbed34243f00facc6d561"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_4.png"
+hash = "491a3a610e42db350e4198ad33db9b9ac0dbfbfa0ddee2dbdf80785447597ac7"
+
+[[files]]
+file = "config/fancymenu/panoramas/herobrine/panorama/panorama_5.png"
+hash = "2148d2f4e41939849d3db8f755fbb3079d2d7bb14c403948d6b75329b37b8194"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/properties.txt"
