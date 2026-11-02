@@ -62,11 +62,11 @@ hash = "a16cf8c5014b491b5686030ebf61d49ce684181376a7fd2b958d4ff6ba4dbc79"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/properties.txt"
-hash = "ee92baed7a4721d9d1cf85d9d54e3062690b7ea2856ee7ea3975effc708bcd02"
+hash = "cbff35bb62dc03ddc72e8936009f0825ac65eaf3c65cb95121197a475173ae2e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "da1535ae079a8076f7f84faad06b6d7a640f11261cbe7f6acc1ad8780cfee431"
+hash = "09d32c163b874f8e52c327356c63364c870468ccb7a9b34a262e45341e0b26e7"
 preserve = true
 
 [[files]]
@@ -164,5 +164,5 @@ hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
 
 [[files]]
 file = "shaderpacks/Somber.zip.txt"
-hash = "cd2e15124880b40583cd5d95d14369fc72a6e4bbda6d3e9b46577d4318707534"
+hash = "3e4bad566a46d9735ded5a1b3df6c369d42a9064fef6d5536877f72726bb7686"
 preserve = true
