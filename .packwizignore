@@ -5,3 +5,5 @@ packwiz.exe
 .gitignore
 # early flat panorama copies (the real ones live in herobrine/panorama/)
 config/fancymenu/panoramas/herobrine/panorama_*.png
+# server resource pack (sounds), hosted from the repo but not installed on clients
+serverpack/
