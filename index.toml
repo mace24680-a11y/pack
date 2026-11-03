@@ -58,7 +58,7 @@ hash = "57b6928a6fdb3f4ce66ac82ebdf13bd5926401c21e805fb0894c332ebb59a33e"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_2.png"
-hash = "b9561ecb78b41f79716c3d513b04dd4793771f537f1186f7637f4b98c33330ec"
+hash = "625324c3fead9fa0a983eb950463f361d39728cc50cf1e87a9ccaf353accb927"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_3.png"
@@ -80,6 +80,10 @@ hash = "cbff35bb62dc03ddc72e8936009f0825ac65eaf3c65cb95121197a475173ae2e"
 file = "config/iris.properties"
 hash = "09d32c163b874f8e52c327356c63364c870468ccb7a9b34a262e45341e0b26e7"
 preserve = true
+
+[[files]]
+file = "config/toastcontrol.json"
+hash = "cd68792e5019e2675bcfc079289fbac0272f0b261e15e033ad36590f6b8be93d"
 
 [[files]]
 file = "mods/chunky.pw.toml"

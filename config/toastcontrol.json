@@ -1,0 +1,20 @@
+{
+  "advancements": false,
+  "recipes": true,
+  "system": false,
+  "tutorial": true,
+  "globalVanilla": false,
+  "globalModded": false,
+  "global": false,
+  "blockedClasses": [],
+  "forceTime": 0,
+  "translucent": true,
+  "transparent": false,
+  "toastCount": 3,
+  "offsetX": 0,
+  "offsetY": 0,
+  "noSlide": false,
+  "startLeft": false,
+  "topDown": false,
+  "printClasses": false
+}
