@@ -83,7 +83,7 @@ preserve = true
 
 [[files]]
 file = "config/toastcontrol.json"
-hash = "cd68792e5019e2675bcfc079289fbac0272f0b261e15e033ad36590f6b8be93d"
+hash = "3490d248779ab035a1456b8e9074b1cc4e4ed5a3564fdcce5ff7cc2d12d2234f"
 
 [[files]]
 file = "mods/chunky.pw.toml"
