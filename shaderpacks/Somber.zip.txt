@@ -1,5 +1,0 @@
-#Mon Nov 02 16:35:24 CST 2026
-fogStrenth=0.8
-noiseSize=500.0
-sunMoonBrightness=1.7
-vignetteAmount=0.5

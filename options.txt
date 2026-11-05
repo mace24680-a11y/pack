@@ -1,5 +1,6 @@
 version:3955
 fov:-0.125
+gamma:1.0
 autoJump:false
 autoSuggestions:true
 chatColors:true

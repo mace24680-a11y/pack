@@ -50,27 +50,27 @@ hash = "b20471d6b1b3f55af601df536c5b16991328b0a0a6c27f125e8b1668b29052dd"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_0.png"
-hash = "3d795d39c70d5d9921285d2f60103091d37fbc49a1a39585a7bfd9fd68c84950"
+hash = "b0ce22182ec95e1aaf5eeda571fd63b860da0b27b6ee99fee84f450f61903966"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_1.png"
-hash = "57b6928a6fdb3f4ce66ac82ebdf13bd5926401c21e805fb0894c332ebb59a33e"
+hash = "65c2b8d9facbf2f6b1df16697d01eab07628552c70029abcef261ebe8c67a068"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_2.png"
-hash = "625324c3fead9fa0a983eb950463f361d39728cc50cf1e87a9ccaf353accb927"
+hash = "409b54cd2fabe924bc601f76107c30ec6e92e2b2ddd757bc43fa5d82dd5f1612"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_3.png"
-hash = "2c9e3e481480e851ba19bbb67a6c103fe38a0a86a35dbed34243f00facc6d561"
+hash = "2c1e88baeee145b7120832d3ac81a8ded7ed67ab2bdb05cc95560d707f1f4bfa"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_4.png"
-hash = "491a3a610e42db350e4198ad33db9b9ac0dbfbfa0ddee2dbdf80785447597ac7"
+hash = "f520007f456f706af63cc169b7cdfbd474acd3d889489e5ce17b76fbd8f27682"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_5.png"
-hash = "65e94c7fa0ca3e0e504a79017e3b21d9b671db4c5e1d441452b74b348fd073e0"
+hash = "7ebec19e9d76658a9486c7fc776ad31478351f0ec9890be9ed7ba7d92830d235"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/properties.txt"
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "24816daf78d155efb141b51a24f83b791f409d46035999d6baa6ef0d1d790eb9"
+hash = "4611a5a718d595c8dad3c16291974bd68c46d83022ca454c1d4f128701b3fea8"
 preserve = true
 
 [[files]]
@@ -191,8 +191,3 @@ hash = "92b66f7f1e0144bb7b527479f19901236a6fab255744f078c6b0ac16e4bc3576"
 [[files]]
 file = "shaderpacks/Somber.zip"
 hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
-
-[[files]]
-file = "shaderpacks/Somber.zip.txt"
-hash = "46ec99a6506c917f4c9019a45eed0e4252eafc70eadc8d4e30e6076e9b3d661d"
-preserve = true
