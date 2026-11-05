@@ -12,9 +12,9 @@ directionalAudio:true
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.4295774647887324
-resourcePacks:["vanilla","fabric","file/Minecraft Classic Edition.zip"]
+resourcePacks:["vanilla","fabric","file/Minecraft Classic Edition.zip","file/SpookMenu.zip"]
 chatVisibility:0
-chatOpacity:0.23767605633802816
+chatOpacity:0.4
 chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true

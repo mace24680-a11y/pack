@@ -70,7 +70,7 @@ hash = "491a3a610e42db350e4198ad33db9b9ac0dbfbfa0ddee2dbdf80785447597ac7"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/panorama/panorama_5.png"
-hash = "2148d2f4e41939849d3db8f755fbb3079d2d7bb14c403948d6b75329b37b8194"
+hash = "65e94c7fa0ca3e0e504a79017e3b21d9b671db4c5e1d441452b74b348fd073e0"
 
 [[files]]
 file = "config/fancymenu/panoramas/herobrine/properties.txt"
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "dd26b9d31b9587b5ba9a842bc423884c92d339012f9f6e9d3636f8c9bfbb9bcb"
+hash = "24816daf78d155efb141b51a24f83b791f409d46035999d6baa6ef0d1d790eb9"
 preserve = true
 
 [[files]]
@@ -185,10 +185,14 @@ file = "resourcepacks/Minecraft Classic Edition.zip"
 hash = "84c971523285df32da9cab9f4b991adc2374f23cc6639024aab3bbad10c9cdb4"
 
 [[files]]
+file = "resourcepacks/SpookMenu.zip"
+hash = "92b66f7f1e0144bb7b527479f19901236a6fab255744f078c6b0ac16e4bc3576"
+
+[[files]]
 file = "shaderpacks/Somber.zip"
 hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
 
 [[files]]
 file = "shaderpacks/Somber.zip.txt"
-hash = "3e4bad566a46d9735ded5a1b3df6c369d42a9064fef6d5536877f72726bb7686"
+hash = "46ec99a6506c917f4c9019a45eed0e4252eafc70eadc8d4e30e6076e9b3d661d"
 preserve = true
