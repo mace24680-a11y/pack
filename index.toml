@@ -82,6 +82,14 @@ hash = "09d32c163b874f8e52c327356c63364c870468ccb7a9b34a262e45341e0b26e7"
 preserve = true
 
 [[files]]
+file = "config/presence-common.toml"
+hash = "25e43b342fd9c1234cd8fa80a1d7dd191f0c172b238f64c5becb75dc929d57ab"
+
+[[files]]
+file = "config/somber_horror.json"
+hash = "503543c3c9b806414ec3a21d929202f0e8a668f4b4274f7882686e550a881a4d"
+
+[[files]]
 file = "config/toastcontrol.json"
 hash = "3490d248779ab035a1456b8e9074b1cc4e4ed5a3564fdcce5ff7cc2d12d2234f"
 
@@ -121,6 +129,11 @@ hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
 metafile = true
 
 [[files]]
+file = "mods/jud_horror.pw.toml"
+hash = "9776c9af234f402eaf55e64186e870decb381a03fcdd61d658895757482921d8"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
@@ -143,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/presence-an-ambient-horror-mod.pw.toml"
+hash = "e6c1f995c27f7763a41c0eeadcd54a2c847b9ddbe9dd890ecf9311cfa5853031"
 metafile = true
 
 [[files]]

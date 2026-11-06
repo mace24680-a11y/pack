@@ -1,0 +1,13 @@
+name = "Somber horror"
+filename = "somber-horror-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hUVLGrF3/versions/7NKiA2jy/somber-horror-1.0.0.jar"
+hash-format = "sha512"
+hash = "12c22835f52d4993a81b954dcacd2854fd8543684513d8750464868be81c6a8e9318be8f384e5bf00792b9047fb2aac34e29e864144ee82c253fe56d9e729d24"
+
+[update]
+[update.modrinth]
+mod-id = "hUVLGrF3"
+version = "7NKiA2jy"

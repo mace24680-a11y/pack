@@ -1,0 +1,18 @@
+{
+  "horrorIntensity": 0.7,
+  "entityAggression": "BALANCED",
+  "stalkingCooldownSeconds": 1800,
+  "ambientEventIntervalTicks": 2400,
+  "ambientEventChance": 0.25,
+  "realityDistortionChance": 0.01,
+  "enableDynamicFog": false,
+  "enablePulsingVignette": false,
+  "enableHeartbeatAudio": true,
+  "masterHorrorVolume": 0.8,
+  "multiplayerIsolationPenalty": true,
+  "isolationTensionMultiplier": 1.6,
+  "dimensionBlacklist": [
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ]
+}
