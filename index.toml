@@ -146,6 +146,11 @@ hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8083e49b94eb72deca40e87757359cfaceef8d1f6a1a07c82f9e8bc9285eb5f2"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e0a1d9bf5386206f3c652c9d422405519110de7c4ab7f9271f4cb355b785e6ae"
 metafile = true
