@@ -6,15 +6,15 @@
 		#Wait between event rolls (10+ seconds, higher
 		#= rarer).
 		#Range: 10 ~ 2147483647
-		minTimeSeconds = 120
+		minTimeSeconds = 420
 		#How long an event lasts (5+ seconds, higher =
 		#longer).
 		#Range: 5 ~ 2147483647
-		eventDurationSeconds = 60
+		eventDurationSeconds = 45
 		#Chance an event starts each roll (0-1, 1 =
 		#every roll).
 		#Range: 0.0 ~ 1.0
-		rollChance = 0.5
+		rollChance = 0.3
 		#When a won roll starts the event: 1 = right
 		#away, 2 = once you can see enough mobs.
 		#Range: 1 ~ 2

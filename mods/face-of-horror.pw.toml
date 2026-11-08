@@ -1,0 +1,13 @@
+name = "Face of Horror"
+filename = "faceofhorror-3.3-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWhRxaou/versions/YtjEc035/faceofhorror-3.3-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "7736fe31d3edbee3ebbf0eb89a399bfa3bd9e08001bd1ca38d2402ca2415e3fc998dcd47e55d2ec66d2db5b043e9a150cedfcafba1d5981d9c02de5713d4027c"
+
+[update]
+[update.modrinth]
+mod-id = "LWhRxaou"
+version = "YtjEc035"

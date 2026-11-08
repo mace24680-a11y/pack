@@ -83,7 +83,7 @@ preserve = true
 
 [[files]]
 file = "config/presence-common.toml"
-hash = "25e43b342fd9c1234cd8fa80a1d7dd191f0c172b238f64c5becb75dc929d57ab"
+hash = "de2a30c7caa34e4862f89a148633f9c365215211af843bf995d86dd538aabdef"
 
 [[files]]
 file = "config/somber_horror.json"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
+
+[[files]]
+file = "mods/face-of-horror.pw.toml"
+hash = "ee16d06da01e68d7b43f21ead1eddde517b7f6dd9e355de011f218ba48ddd4f5"
 metafile = true
 
 [[files]]
@@ -214,3 +219,7 @@ hash = "92b66f7f1e0144bb7b527479f19901236a6fab255744f078c6b0ac16e4bc3576"
 [[files]]
 file = "shaderpacks/Somber.zip"
 hash = "8849260fb5d7544d2a2a5d8819bbb8241015c89b745cbbab1e688f1a5833eba0"
+
+[[files]]
+file = "shaderpacks/Somber.zip.txt"
+hash = "64de7f7b4f25d793354222c8feac9ff4bac8e7d956b3cf19ad16dae965cbfe58"
