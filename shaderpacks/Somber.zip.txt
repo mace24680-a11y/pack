@@ -1,0 +1,15 @@
+chromaticAbberation=true
+abberationAmount=1.0
+noiseToggle=true
+noiseSize=800.0
+vignette=true
+vignetteAmount=0.7
+fogToggle=true
+fogStrenth=0.998
+fogSkyOverlap=true
+oldFoliageGreen=true
+foliageGreenAmount=1.6
+noWaterTransparency=true
+waterBlueness=2.0
+starBrightness=1.5
+sunMoonBrightness=1.2
